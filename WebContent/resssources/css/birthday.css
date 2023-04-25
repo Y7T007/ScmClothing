@@ -1,0 +1,21 @@
+.box_img {
+    background-image: url("/resssources/img/pexels-natalie-bond-3371094.jpg");
+}
+
+.rec {
+    font-size: 30px;
+    padding: 70px;
+    text-align: center;
+}
+
+.btnnn {
+    padding: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 20px;
+    transition-duration: .4s;
+}
+
+.btnnn:hover {
+    transition-duration: .4s;
+}
