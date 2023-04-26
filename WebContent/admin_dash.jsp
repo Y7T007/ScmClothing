@@ -75,7 +75,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-sm-6 col-12" onclick="window.location.href='admin_prgrm.html';">
+                    <div class="col-xl-3 col-sm-6 col-12" onclick="window.location.href='admin_prgrm';">
                         <div class="card">
                             <div class="card-content">
                                 <div class="card-body">

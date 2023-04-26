@@ -85,15 +85,7 @@ public class store extends HttpServlet {
                 htmldivs += "<div class=\"card\" style=\"width: 20rem;\">";
                 htmldivs += "<img src=\""+image+"\" class=\"card-img-top\" alt=\"...\">";
                 htmldivs += "<div class=\"card-body\">";
-                htmldivs += "<ul class=\"list-unstyled d-flex justify-content-between\" style=\"float:left;\">";
-                htmldivs += "<li>";
-                htmldivs += "<i class=\"text-warning fa fa-star\"></i>";
-                htmldivs += "<i class=\"text-warning fa fa-star\"></i>";
-                htmldivs += "<i class=\"text-warning fa fa-star\"></i>";
-                htmldivs += "<i class=\"text-muted fa fa-star\"></i>";
-                htmldivs += "<i class=\"text-muted fa fa-star\"></i>";
-                htmldivs += "</li>";
-                htmldivs += "</ul>";
+                
                 htmldivs += "<p style=\"font-weight: bolder;font-size: large; text-align: right;\">Prix : "+price+" DHs</p>";
                 htmldivs += "<hr>";
                 htmldivs += "<h5 class=\"card-title\">" + name + "</h5>";

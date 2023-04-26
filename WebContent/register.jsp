@@ -32,13 +32,13 @@
                     </a>
                 </li>
                 <li class="nav-link icons">
-                    <a href="#">
+                    <a href="profil">
                         <ion-icon name="person-outline"></ion-icon>
                     </a>
                 </li>
                 <li class="nav-link icons">
-                    <a href="#">
-                        <ion-icon name="search-outline"></ion-icon>
+                    <a href="dashboard">
+                        <ion-icon name="grid-outline"></ion-icon>
                     </a>
                 </li>
             </ul>

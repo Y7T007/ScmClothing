@@ -109,4 +109,34 @@
     <servlet-name>store_top</servlet-name>
     <url-pattern>/store_top</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>cvrt_points</display-name>
+    <servlet-name>cvrt_points</servlet-name>
+    <servlet-class>com.example.points.cvrt_points</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>cvrt_points</servlet-name>
+    <url-pattern>/cvrt_points</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>gen_coupon</display-name>
+    <servlet-name>gen_coupon</servlet-name>
+    <servlet-class>com.example.gen_coupon.gen_coupon</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>gen_coupon</servlet-name>
+    <url-pattern>/gen_coupon</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>admin_prgrm</display-name>
+    <servlet-name>admin_prgrm</servlet-name>
+    <servlet-class>com.example.admin.admin_prgrm</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>admin_prgrm</servlet-name>
+    <url-pattern>/admin_prgrm</url-pattern>
+  </servlet-mapping>
 </web-app>

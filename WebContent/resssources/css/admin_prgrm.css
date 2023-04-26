@@ -26,9 +26,9 @@
 }
 
 .box {
-    margin-top: 150px;
+    margin-top: 0px;
     display: flex;
-    height: 800px;
+    height: 1320px;
     flex-direction: column;
     background: rgb(255, 255, 255);
     background: linear-gradient(38deg, rgba(255, 255, 255, 1) 0%, rgba(251, 222, 196, 1) 100%);
@@ -220,7 +220,11 @@ input[type=range]::-moz-range-thumb {
 #output2,
 #output3,
 #output4,
-#output5 {
+#output5,
+#output6,
+#output7,
+#output8,
+#output9 {
     background-color: #ffd096;
     display: block;
     padding: 15px;
@@ -229,28 +233,4 @@ input[type=range]::-moz-range-thumb {
     border-radius: 15px;
     width: 205px;
     text-align: center;
-}
-
-.code:hover {
-    background: green;
-    color: #fff;
-    cursor: pointer
-}
-
-.border-right {
-    display: flex;
-    align-self: center;
-}
-
-.choice {
-    display: flex;
-    width: 80%;
-    height: 100%;
-    align-items: center;
-    justify-content: left;
-    padding-left: 50px;
-}
-
-#submitib{
-	background-color:black;
 }

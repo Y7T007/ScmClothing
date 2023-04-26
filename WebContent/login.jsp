@@ -1,5 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -26,9 +25,9 @@
                 </li>
 
                 <li class="nav-link">
-                    <a href="product.html"> Produits</a></li>
+                    <a href="store"> Produits</a></li>
                 <li class="nav-link active">
-                    <a href="login.html"> Se Connecter</a></li>
+                    <a href="login"> Se Connecter</a></li>
                 <li class="nav-link">
                     <a href="#"> A Propos</a></li>
                 <li class="nav-link icons">
@@ -37,13 +36,13 @@
                     </a>
                 </li>
                 <li class="nav-link icons">
-                    <a href="#">
+                    <a href="profil">
                         <ion-icon name="person-outline"></ion-icon>
                     </a>
                 </li>
                 <li class="nav-link icons">
-                    <a href="#">
-                        <ion-icon name="search-outline"></ion-icon>
+                    <a href="dashboard">
+                        <ion-icon name="grid-outline"></ion-icon>
                     </a>
                 </li>
             </ul>

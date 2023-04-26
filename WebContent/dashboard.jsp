@@ -42,13 +42,13 @@
                     </a>
                 </li>
                 <li class="nav-link icons">
-                    <a href="profil.html">
+                    <a href="profil">
                         <ion-icon name="person-outline"></ion-icon>
                     </a>
                 </li>
                 <li class="nav-link icons">
-                    <a href="#">
-                        <ion-icon name="search-outline"></ion-icon>
+                    <a href="dashboard">
+                        <ion-icon name="grid-outline"></ion-icon>
                     </a>
                 </li>
             </ul>
@@ -92,7 +92,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-sm-6 col-12" onclick="window.location.href='cvrt_points.html';">
+                    <div class="col-xl-3 col-sm-6 col-12" onclick="window.location.href='cvrt_points';">
                         <div class="card">
                             <div class="card-content">
                                 <div class="card-body">
@@ -131,7 +131,7 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-xl-3 col-sm-6 col-12" onclick="window.location.href='index.html';">
+                    <div class="col-xl-3 col-sm-6 col-12" onclick="window.location.href='cvrt_points';">
                         <div class="card">
                             <div class="card-content">
                                 <div class="card-body">

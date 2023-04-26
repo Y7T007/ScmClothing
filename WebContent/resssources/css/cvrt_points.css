@@ -42,6 +42,7 @@
 
 .box {
     display: flex;
+
     flex-direction: column;
     background: rgb(255, 255, 255);
     background: linear-gradient(38deg, rgba(255, 255, 255, 1) 0%, rgba(251, 222, 196, 1) 100%);
